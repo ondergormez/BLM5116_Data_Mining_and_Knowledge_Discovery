@@ -6,7 +6,7 @@ Regarding the weeks;
 
 ## Weeks
 - [x] [1. Week - 2 October 2023 Monday](01_02_10_2023.md)
-- [ ] [2. Week - 9 October 2023 Monday](02_09_10_2023.md)
+- [x] [2. Week - 9 October 2023 Monday](02_09_10_2023.md)
 - [ ] [3. Week - 16 October 2023 Monday](03_16_10_2023.md)
 - [ ] [4. Week - 23 October 2023 Monday](04_23_10_2023.md)
 - [ ] [5. Week - 30 October 2023 Monday](05_30_10_2023.md)
@@ -22,7 +22,7 @@ Regarding the weeks;
 
 ## Online Lessons
 - [x] [1. Week - 05.10.2020](http://arsivonline.yildiz.edu.tr/Recordings/2020-2021/G%C3%9CZ%20D%C3%96NEM%C4%B0/BLM5116%20-%201/BLM5116%20-%201_5-10-2020_13-00_5-10-2020_15-50_72026855-d9ab-445e-80a3-71738ee10a86.MP4)
-- [ ] [2. Week - 12.10.2020](http://arsivonline.yildiz.edu.tr/Recordings/2020-2021/G%C3%9CZ%20D%C3%96NEM%C4%B0/BLM5116%20-%201/BLM5116%20-%201_12-10-2020_13-00_12-10-2020_15-50_3d61ddaa-3df7-4d8a-8eba-7e4bc78e0793.MP4)
+- [x] [2. Week - 12.10.2020](http://arsivonline.yildiz.edu.tr/Recordings/2020-2021/G%C3%9CZ%20D%C3%96NEM%C4%B0/BLM5116%20-%201/BLM5116%20-%201_12-10-2020_13-00_12-10-2020_15-50_3d61ddaa-3df7-4d8a-8eba-7e4bc78e0793.MP4)
 - [ ] [3. Week - 19.10.2020](http://arsivonline.yildiz.edu.tr/Recordings/2020-2021/G%C3%9CZ%20D%C3%96NEM%C4%B0/BLM5116%20-%201/BLM5116%20-%201_19-10-2020_13-00_19-10-2020_15-50_36e680fa-0cd4-44ca-8786-b1b9874d63e1.MP4)
 - [ ] [4. Week - 26.10.2020](http://arsivonline.yildiz.edu.tr/Recordings/2020-2021/G%C3%9CZ%20D%C3%96NEM%C4%B0/BLM5116%20-%201/BLM5116%20-%201_26-10-2020_13-00_26-10-2020_15-50_ab614704-e36f-4cb9-84e0-599b2af2885e.MP4)
 - [ ] [5. Week - 02.11.2020](http://arsivonline.yildiz.edu.tr/Recordings/2020-2021/G%C3%9CZ%20D%C3%96NEM%C4%B0/BLM5116%20-%201/BLM5116%20-%201_2-11-2020_13-00_2-11-2020_15-50_cb2be231-b2f6-4c57-9881-1a28843eae79.MP4)
@@ -40,7 +40,8 @@ Regarding the weeks;
 https://avesis.yildiz.edu.tr/svarli/documents
 
 - [x] 1. Week - 05.10.2020 - 01. Hafta - introduction.ppt - Data Mining: Concepts and Techniques
-- [ ] [2. Week - 12.10.2020]()
+- [x] [2. Week - 12.10.2020 - Data Mining: Data Preprocessing - 02. Hafta -  DataMining.ppt
+](https://avesis.yildiz.edu.tr/resume/downloadfile/svarli?key=37aed94b-8fcd-4961-b7b8-3ddb2d3c1551&announcementId=76b91c97-1a38-4260-9525-757ff5e64004)
 - [ ] [3. Week - 19.10.2020]()
 - [ ] [4. Week - 26.10.2020]()
 - [ ] [5. Week - 02.11.2020]()
